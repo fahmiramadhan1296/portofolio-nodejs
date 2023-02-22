@@ -1,17 +1,15 @@
 {
-  "name": "test-service",
+  "name": "vercel-node-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
-    "vercel": "^28.16.4"
+    "express": "^4.17.1"
   }
 }
